@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module LanguageDetailsD1SamePackDifClass {
+}
